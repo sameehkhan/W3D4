@@ -71,8 +71,9 @@ ol li:nth-of-type(2n) {
 h2 + .user_review {
     border-top: 1px solid black;
 }
-
+ /*  */fgafdshkj.
 nav {
+  float: right;
     display: inline-block;
 }
 
@@ -84,7 +85,7 @@ nav ul li a {
     padding: 20px;
     display: block;
 }
-
+/*  */jgkfvhv
 body {
     margin: 0 auto; /* Common Centering Technique */
     width: 900px;
@@ -95,8 +96,8 @@ section {
     display: inline-block;
     vertical-align: top;
 }
-
-aside {
+/*  */ytfjhkgv
+aside { 
     width: 180px;
     margin-right: 15px;
     display: inline-block;
@@ -123,4 +124,18 @@ textarea {
 label {
   display: block;
 }
-
+/* 
+.logo {
+  float: left;
+  clear: both;
+}
+.aside:after { 
+  content: "";
+  clear:both;
+  display:block;
+}
+.dir:after { 
+  content: "";
+  clear:both;
+  display:block;
+} */
